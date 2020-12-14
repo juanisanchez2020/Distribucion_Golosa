@@ -1,0 +1,46 @@
+{
+  "lugares": [
+    {
+      "nombre": "Cuartel V",
+      "ubicacion": {
+        "latitud": -34.522754,
+        "longitud": -58.811315
+      }
+    },
+    {
+      "nombre": "Tortuguitas",
+      "ubicacion": {
+        "latitud": -34.473076,
+        "longitud": -58.73567
+      }
+    },
+    {
+      "nombre": "Derqui",
+      "ubicacion": {
+        "latitud": -34.492876,
+        "longitud": -58.842513
+      }
+    },
+    {
+      "nombre": "Grand Bourg",
+      "ubicacion": {
+        "latitud": -34.5025,
+        "longitud": -58.7143
+      }
+    },
+    {
+      "nombre": "Eaton",
+      "ubicacion": {
+        "latitud": -34.4993,
+        "longitud": -58.7513
+      }
+    },
+    {
+      "nombre": "Jose C Paz",
+      "ubicacion": {
+        "latitud": -34.5224,
+        "longitud": -58.7393
+      }
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "lugares": [
+    {
+      "nombre": "Juan",
+      "ubicacion": {
+        "latitud": -34.51,
+        "longitud": -58.74
+      }
+    },
+    {
+      "nombre": "Maxi",
+      "ubicacion": {
+        "latitud": -34.46,
+        "longitud": -58.91
+      }
+    },
+    {
+      "nombre": "Martin",
+      "ubicacion": {
+        "latitud": -34.546,
+        "longitud": -58.722
+      }
+    },
+    {
+      "nombre": "Lucas",
+      "ubicacion": {
+        "latitud": -34.5109,
+        "longitud": -58.7613
+      }
+    },
+    {
+      "nombre": "Marisa",
+      "ubicacion": {
+        "latitud": -34.5183,
+        "longitud": -58.7622
+      }
+    },
+    {
+      "nombre": "Damian",
+      "ubicacion": {
+        "latitud": -34.5331,
+        "longitud": -58.7585
+      }
+    },
+    {
+      "nombre": "Juliana",
+      "ubicacion": {
+        "latitud": -34.5375,
+        "longitud": -58.7194
+      }
+    },
+    {
+      "nombre": "Fernando",
+      "ubicacion": {
+        "latitud": -34.4924,
+        "longitud": -58.8285
+      }
+    },
+    {
+      "nombre": "Alejandro",
+      "ubicacion": {
+        "latitud": -34.4803,
+        "longitud": -58.8815
+      }
+    },
+    {
+      "nombre": "Cintia",
+      "ubicacion": {
+        "latitud": -34.4592,
+        "longitud": -58.8891
+      }
+    },
+    {
+      "nombre": "Paula",
+      "ubicacion": {
+        "latitud": -34.4497,
+        "longitud": -58.8394
+      }
+    },
+    {
+      "nombre": "Santiago",
+      "ubicacion": {
+        "latitud": -34.5053,
+        "longitud": -58.706
+      }
+    },
+    {
+      "nombre": "Mariano",
+      "ubicacion": {
+        "latitud": -34.5095,
+        "longitud": -58.7155
+      }
+    },
+    {
+      "nombre": "Enrique",
+      "ubicacion": {
+        "latitud": -34.5159,
+        "longitud": -58.7458
+      }
+    },
+    {
+      "nombre": "Luciana",
+      "ubicacion": {
+        "latitud": -34.5099,
+        "longitud": -58.7264
+      }
+    },
+    {
+      "nombre": "Graciela",
+      "ubicacion": {
+        "latitud": -34.4779,
+        "longitud": -58.6885
+      }
+    }
+  ]
+}
